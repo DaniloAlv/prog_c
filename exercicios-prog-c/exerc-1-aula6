@@ -1,0 +1,6 @@
+1-a) É mostrado quantos caracteres há na linha, onde tem um limite de 1000 deles, ou seja, na memória é alocado um espaço para ser inserido até 1000 caracteres, da posição 0 á 999, e em cada uma dessas posições está um caracter individual.
+
+b) \n seria para simbolizar o caracter para pular linha
+   \0 significa um caractere de valor vazio 
+
+c) 
